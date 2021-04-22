@@ -12,15 +12,23 @@
 
 Pacotes com nome **santi** se referece as classe de pessoa e aluno, cujo a classe aluno herda os atributos da classe pessoa
 
-## classe pessoa
-' public class pessoa {
+## Classe pessoa
+### Atributos da classe
+` public class pessoa {
     private String nome; // nome completo da pessoa
     private String cpf; // cpf
     private String rua;
     private int num;
     private String compl;
-'
+`
 
+## Classe aluno
+### Atributos da classe
+`public class Aluno extends pessoa{ // classe aluno Herda da classe pessoa
+
+    private String matricula;
+    private String curso;
+`
 Já o pacote **view** se refere as telas da interface criada.
 
 # Biblioteca de Conexão
