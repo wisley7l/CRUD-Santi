@@ -12,6 +12,10 @@ Código  de CRUD para teste da Santi Soluções Tecnológicas. Desenvolvido no d
 
 A biblioteca para conexão entre o JAVA e O banco de dados SQL Server é a **Microsoft JDBC Driver 6.0 for SQL Server**
 
+# santi.sql
+
+Arquivo SQL de criação do DATABASE e da TABLE aluno e teste de DELETE
+
 # Pacotes
 
 Pacotes com nome **santi** se referece as classe de Pessoa, Aluno, ConectBDListDeleteAluno e CriaAtualizaAluno.

@@ -1,6 +1,6 @@
 -- create database santi;
 
- use santi;
+ -- use santi;
 
 
 -- CREATE TABLE aluno (
