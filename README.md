@@ -8,4 +8,4 @@
 
  # Pacotes
 Pacotes com nome santi se referece as classe de pessoa e aluno, cujo a classe aluno herda os atributos da classe pessoa
-Ja o pacote view se refere as telas da interface criada.
+Já o pacote view se refere as telas da interface criada.
