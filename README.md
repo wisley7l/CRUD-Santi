@@ -1,5 +1,6 @@
 # CRUD-Santi
- CRUD teste para Santi Soluções Tecnológicas
+
+Código  de CRUD para teste da Santi Soluções Tecnológicas. Desenvolvido no dia 21 de Abril de 2021 e este README no dia 22 de Abril de 2021. 
 
  O projeto em questão foi desenvolvido da IDE *Netbeans* versão *8.2*
 
@@ -41,7 +42,7 @@ Responsável pela criação da conexão com o banco de dados, as funções desen
 
 * **createAluno**
 ```
-public int createAluno(Aluno a){
+public int createAluno(Aluno a)
 ```
 Função na qual aciona o SQL para criação da linha aluno na Tabela aluno no banco de dados
 
@@ -54,7 +55,7 @@ Função na qual aciona o SQL para atualização da linha aluno na Tabela aluno 
 
 Já o pacote **view** se refere as telas da interface criada.
 
-# Dificuldade
+# Dificuldades
 
 * Houve algumas dificuldades na criação da lista, mas após algumas pesquisas foram sanadas.
 
