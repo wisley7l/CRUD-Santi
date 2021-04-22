@@ -24,7 +24,7 @@ Pacotes com nome **santi** se referece as classe de pessoa e aluno, cujo a class
 
 ## Classe aluno
 ### Atributos da classe
-`public class Aluno extends pessoa{ // classe aluno Herda da classe pessoa
+` public class Aluno extends pessoa{ // classe aluno Herda da classe pessoa
 
     private String matricula;
     private String curso;
