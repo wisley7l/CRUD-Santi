@@ -1,12 +1,12 @@
 # CRUD-Santi
 
-Código  de CRUD para teste da Santi Soluções Tecnológicas. Desenvolvido no dia 21 de Abril de 2021 e este README no dia 22 de Abril de 2021. 
+Código  de CRUD para teste da Santi Soluções Tecnológicas. Desenvolvido no dia 21 de Abril de 2021 e este README no dia 22 de Abril de 2021.
 
  O projeto em questão foi desenvolvido da IDE *Netbeans* versão *8.2*
 
  As telas foram criadas utilizando a interface do *Netbeans*.
 
- o banco de dados utilizado foi o *SQL SERVER 2019* - Interface do  *MS SQL Server Management Studio 18*
+ O banco de dados utilizado foi o *SQL SERVER 2019* - Interface do  *MS SQL Server Management Studio 18*
 
 # Biblioteca de Conexão
 
