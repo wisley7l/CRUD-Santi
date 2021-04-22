@@ -14,25 +14,21 @@ Pacotes com nome **santi** se referece as classe de pessoa e aluno, cujo a class
 
 ## Classe pessoa
 ### Atributos da classe
-` public class pessoa {`
-
-`  private String nome; // nome completo da pessoa`
-
-`    private String cpf; // cpf`
-
-`    private String rua;`
-
-`    private int num;`
-
-`   private String compl;`
+```
+public class pessoa {
+    private String nome; // nome completo da pessoa
+    private String cpf; // cpf
+    private String rua;
+    private int num;
+   private String compl;
+```
 
 ## Classe aluno
 ### Atributos da classe
-` public class Aluno extends pessoa{ // classe aluno Herda da classe pessoa`
+ public class Aluno extends pessoa{ // classe aluno Herda da classe pessoa`
+    private String matricula;`
 
-`    private String matricula;`
-
-`    private String curso;`
+    private String curso;
 
 Já o pacote **view** se refere as telas da interface criada.
 
