@@ -25,10 +25,11 @@ public class pessoa {
 
 ## Classe aluno
 ### Atributos da classe
- public class Aluno extends pessoa{ // classe aluno Herda da classe pessoa`
-    private String matricula;`
-
+```
+public class Aluno extends pessoa{ // classe aluno Herda da classe pessoa`
+    private String matricula;
     private String curso;
+```
 
 Já o pacote **view** se refere as telas da interface criada.
 
